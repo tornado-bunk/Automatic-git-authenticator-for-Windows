@@ -16,4 +16,4 @@
 
 3. Follow the instructions.
 
-4. Type ```Set-ExecutionPolicy Allsigned``` to restore back the default secutity script policy of Windows.
+4. Type ```Set-ExecutionPolicy Allsigned``` to restore back the default security script policy of Windows.
